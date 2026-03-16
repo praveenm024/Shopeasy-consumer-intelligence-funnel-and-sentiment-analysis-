@@ -40,7 +40,8 @@ As the analyst on this project, the focus was on three goals — diagnosing funn
 
 ## 📊 Executive Summary
 
-![Dashboard Overview](C:\Users\prave\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-16 141325.png)
+<h3>Dashboard Overview</h3>
+<img src="image/overview.png" width="900">
 
 ### Conversion Funnel
 - Overall conversion rate: **9.6%** (cleaned) vs 8.5% raw — a 1.1pp gap that validates the cleaning investment
@@ -50,7 +51,8 @@ As the analyst on this project, the focus was on three goals — diagnosing funn
 
 Implication: The awareness and interest problem is solved. The purchase completion problem is not.
 
-![Dashboard Overview](dashboard_overview.png)
+<h3>Conversion Funnel</h3>
+<img src="image/conversion.png" width="900">
 
 ---
 
@@ -62,7 +64,8 @@ Implication: The awareness and interest problem is solved. The purchase completi
 
 Implication: The engagement decay is seasonal and affects all channels equally — it is a campaign strategy problem, not a channel mix problem.
 
-
+<h3>Marketing Analysis</h3>
+<img src="image/marketing.png" width="900">
 ---
 
 ### Customer Sentiment
@@ -88,7 +91,8 @@ Built a composite score across Conversion Rate, Average Rating, and % Positive S
 
 Critical signal: Running Shoes is At Risk across all three dimensions while simultaneously receiving the highest marketing click volume.
 
-
+<h3>Sentiment Analysis</h3>
+<img src="image/sentiment.png" width="900">
 
 ---
 
