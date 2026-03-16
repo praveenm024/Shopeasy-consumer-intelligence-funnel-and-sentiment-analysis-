@@ -66,6 +66,7 @@ Implication: The engagement decay is seasonal and affects all channels equally �
 
 <h3>Marketing Analysis</h3>
 <img src="image/marketing.png" width="900">
+
 ---
 
 ### Customer Sentiment
@@ -175,9 +176,9 @@ Critical signal: Running Shoes is At Risk across all three dimensions while simu
 | customer_reviews_cleaned | 1,363 | 1,363 | Structural cleaning only |
 | engagement_data_cleaned | 4,623 | 4,623 | Casing + column split |
 
-The SQL files used to validate and clean this data can be found here: [01_validation.sql](#) · [02_cleaning_transformation.sql](#)
+The SQL files used to validate and clean this data can be found here: [01_validation.sql](01.Data_Validation.sql) · [02_cleaning_transformation.sql](02_cleaning_transformation.sql)
 
-An interactive Power BI dashboard can be found here: [View Dashboard](#)
+ Power BI dashboard can be found here: [View Dashboard](image)
 
 ---
 
@@ -203,7 +204,9 @@ An interactive Power BI dashboard can be found here: [View Dashboard](#)
 This project was developed as part of a portfolio demonstrating end-to-end data analysis capabilities across SQL, Python, and Power BI.
 
 **Data Analyst:** Praveen M
+
 **LinkedIn:** [Profile](https://www.linkedin.com/in/praveen-m-a6b0a1354)
+
 **Email:** praveenm2124@gmail.com
 
 ---
