@@ -11,7 +11,7 @@ ShopEasy's leadership identified a gap between marketing investment and actual p
 <h3>Dashboard Walkthrough</h3>
 <img src="image/demo.gif" width="900"/>
 
-**Key Findings**
+## Key Findings ##
 - 96% of all drop-offs occur at Checkout (575 of 598) — the business has a bottom-funnel problem, not a traffic problem
 - Click → Purchase rate is only 19% despite a 51% View → Click rate — revenue is leaking at the final step
 - Combined negative sentiment is ~31% — nearly 1 in 3 customers are dissatisfied
@@ -21,7 +21,7 @@ ShopEasy's leadership identified a gap between marketing investment and actual p
 **Why This Matters**
 A business can appear healthy on topline metrics while hiding structural problems underneath. This analysis joins three data sources — journey behavior, review language, and engagement data — to surface the hidden signals that aggregate dashboards miss.
 
-**Actionable Recommendations**
+## Actionable Recommendations ##
 - Audit and simplify checkout UX — improving Click→Purchase from 19% to 25% generates ~35 additional purchases per cycle
 - Rewrite product descriptions for At Risk products — reducing unmet expectations by 50% shifts ~38 customers from negative to neutral/positive sentiment
 - Pause paid promotion on Running Shoes until product performance issues are resolved
