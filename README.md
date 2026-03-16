@@ -54,7 +54,7 @@ As the analyst on this project, the focus was on three goals — diagnosing funn
 
 Implication: The awareness and interest problem is solved. The purchase completion problem is not.
 
-<h3>Conversion Funnel</h3>
+
 <img src="image/conversion.png" width="900">
 
 ---
@@ -67,7 +67,7 @@ Implication: The awareness and interest problem is solved. The purchase completi
 
 Implication: The engagement decay is seasonal and affects all channels equally — it is a campaign strategy problem, not a channel mix problem.
 
-<h3>Marketing Analysis</h3>
+
 <img src="image/marketing.png" width="900">
 
 ---
@@ -93,9 +93,11 @@ Built a composite score across Conversion Rate, Average Rating, and % Positive S
 | 🟡 Needs Attention | Boxing Gloves, Dumbbells, Football Helmet, Soccer Ball, Surfboard, Swim Goggles, Tennis Racket, Volleyball |
 | 🟢 Healthy | Baseball Glove, Basketball, Climbing Rope, Cycling Helmet, Fitness Tracker, Hockey Stick |
 
+
 Critical signal: Running Shoes is At Risk across all three dimensions while simultaneously receiving the highest marketing click volume.
 
-<h3>Sentiment Analysis</h3>
+
+
 <img src="image/sentiment.png" width="900">
 
 ---
