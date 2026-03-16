@@ -9,7 +9,7 @@
 ShopEasy's leadership identified a gap between marketing investment and actual purchase conversion. Despite strong top-funnel engagement, revenue growth was not keeping pace with traffic. This analysis was commissioned to diagnose where customers were dropping off, why sentiment was declining, and which products were silently underperforming — before these issues became visible in the P&L.
 
 <h3>Dashboard Walkthrough</h3>
-<img src="image/demo.gif" width="900">
+<img src="image/demo.gif" width="900"/>
 
 **Key Findings**
 - 96% of all drop-offs occur at Checkout (575 of 598) — the business has a bottom-funnel problem, not a traffic problem
